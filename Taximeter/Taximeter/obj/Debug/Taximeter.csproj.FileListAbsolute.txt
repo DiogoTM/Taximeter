@@ -1,0 +1,13 @@
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\bin\Debug\Taximeter.exe.config
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\bin\Debug\Taximeter.exe
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\bin\Debug\Taximeter.pdb
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\obj\Debug\Taximeter.csprojAssemblyReference.cache
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\obj\Debug\Taximeter.Properties.Resources.resources
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\obj\Debug\Taximeter.csproj.GenerateResource.cache
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\obj\Debug\Taximeter.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\obj\Debug\Taximeter.exe
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\obj\Debug\Taximeter.pdb
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\obj\Debug\Taximeter.GUI.UIForm.resources
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\obj\Debug\Taximeter.GUI.FillTankForm.resources
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\obj\Debug\Taximeter.GUI.PickupForm.resources
+C:\Users\diogo\Documents\ObjectiveC\Taximeter\Taximeter\obj\Debug\Taximeter.GUI.StartForm.resources
