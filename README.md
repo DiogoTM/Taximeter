@@ -54,4 +54,5 @@ After every trip, total car’s mileage will be added with the mileage of that t
 Also,the total number of tips must be increased by one.
 Fuel consumption formula:
 
-<img><img/>
+![Alt text](https://github.com/DiogoTM/Taximeter/blob/master/formula1.PNG?raw=true "Formulas")
+
