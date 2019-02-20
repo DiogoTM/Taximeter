@@ -1,10 +1,10 @@
 # Taximeter
-<h2>Taximeter simulator project for a programming class<h2/>
+<h2>Taximeter simulator project for a programming class</h2>
 <hr/>
 
 Project developed following the following guidelines:  
 
-<h4>Final Project<h4/>
+<h4>Final Project</h4>
 
 The goal of this project is to implement a taximeter. 
 The taximeter application is going to provide the following functionalities:
